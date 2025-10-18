@@ -265,10 +265,12 @@ header.sticky{
     margin-top: 5rem;
     margin-bottom: 5rem;
 }
+
 .box{
     background: var(--bg-color);
-    padding: 35px 45px;
-    border-radius: 8px;
+    padding: 35px 55px;
+    /* borderrad was 8px */
+    border-radius: 8px; 
     transition: all .45s ease;
 }
 /* s or e icons */
